@@ -19,7 +19,13 @@ IndoSum Statistics: [Link 1](https://colab.research.google.com/drive/1EprE6q0VKz
 Filtering IndoSum: [Link 1](https://colab.research.google.com/drive/1ZNwfICwk1ybxs05cAptBUaln7fIlNBAd?usp=sharing), [Alt. Link](https://github.com/mirzaalimm/TruncationVsSummarization/blob/main/Filtering%20IndoSum.ipynb). \
 Automatic Abstractive Summarization:  [Link 1](https://colab.research.google.com/drive/1AD05FMkbUCfba7CMg9lAl2VEVuwZ9XxH?usp=sharing), [Alt. Link](https://github.com/mirzaalimm/TruncationVsSummarization/blob/main/Automatic%20Abstractive%20Summarization.ipynb). \
 Filtered-IndoSum Statistics: [Link 1](https://colab.research.google.com/drive/1bsS7nj0dui27pNO96omYR3eHopLhMLXM?usp=sharing), [Alt. Link](https://github.com/mirzaalimm/TruncationVsSummarization/blob/main/Filtered-IndoSum%20Statistics.ipynb). \
-Document Classification: [Link 1](), [Alt. Link]().
+Document Classification: [Link 1](https://colab.research.google.com/drive/123wR4dGHjGXrUl3x9fnhXKd2h6adSRTL?usp=sharing), [Alt. Link](https://github.com/mirzaalimm/TruncationVsSummarization/blob/main/Document%20Classification.ipynb).
 
 # License
 MIT
+
+# Citation
+If you are using any component of our work, pleasa cite:
+```
+To be announced...
+```
